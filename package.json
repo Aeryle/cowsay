@@ -1,0 +1,12 @@
+{
+  "name": "cowsay",
+  "version": "0.1.0-alpha",
+  "description": "[WCS] A small project to send a message using NPM's cowsay.",
+  "main": "index.js",
+  "author": "Aeryle",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
